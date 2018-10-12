@@ -1,0 +1,370 @@
+Laravel development server started: <http://0.0.0.0:8080>
+Laravel development server started: <http://0.0.0.0:8080>
+[Tue Aug 28 22:52:38 2018] 64.233.172.233:50121 [200]: /favicon.ico
+[Wed Aug 29 00:11:20 2018] 54.145.68.131:38488 [200]: /css/styles.css
+[Wed Aug 29 00:11:20 2018] 54.145.68.131:38490 [200]: /css/parsley.css
+[Wed Aug 29 00:11:20 2018] 54.145.68.131:38492 [200]: /js/parsley.min.js
+[Wed Aug 29 00:12:18 2018] 54.145.68.131:38520 [200]: /css/parsley.css
+[Wed Aug 29 00:12:18 2018] 54.145.68.131:38522 [200]: /css/styles.css
+[Wed Aug 29 00:12:18 2018] 54.145.68.131:38524 [200]: /js/parsley.min.js
+[Wed Aug 29 00:12:35 2018] 54.145.68.131:38534 [200]: /css/styles.css
+[Wed Aug 29 00:12:40 2018] 54.145.68.131:38540 [200]: /css/styles.css
+[Wed Aug 29 00:12:44 2018] 54.145.68.131:38546 [200]: /css/styles.css
+[Wed Aug 29 00:12:46 2018] 54.145.68.131:38552 [200]: /css/styles.css
+[Wed Aug 29 00:12:51 2018] 54.145.68.131:38562 [200]: /css/styles.css
+[Wed Aug 29 00:13:03 2018] 54.145.68.131:38566 [200]: /css/styles.css
+[Wed Aug 29 00:13:05 2018] 54.145.68.131:38572 [200]: /css/styles.css
+[Wed Aug 29 00:30:28 2018] 54.145.68.131:38650 [200]: /css/styles.css
+[Wed Aug 29 00:45:03 2018] 54.145.68.131:38688 [200]: /css/styles.css
+[Wed Aug 29 00:47:59 2018] 54.145.68.131:38704 [200]: /css/parsley.css
+[Wed Aug 29 00:47:59 2018] 54.145.68.131:38708 [200]: /css/styles.css
+[Wed Aug 29 00:47:59 2018] 54.145.68.131:38710 [200]: /js/parsley.min.js
+[Wed Aug 29 00:50:11 2018] 54.145.68.131:38722 [200]: /css/styles.css
+[Wed Aug 29 01:08:10 2018] 54.145.68.131:38854 [200]: /css/parsley.css
+[Wed Aug 29 01:08:10 2018] 54.145.68.131:38856 [200]: /css/styles.css
+[Wed Aug 29 01:08:11 2018] 54.145.68.131:38858 [200]: /js/parsley.min.js
+[Wed Aug 29 01:08:14 2018] 54.145.68.131:38864 [200]: /css/styles.css
+[Wed Aug 29 01:10:05 2018] 54.145.68.131:38880 [200]: /css/styles.css
+[Wed Aug 29 01:10:42 2018] 54.145.68.131:38890 [200]: /css/styles.css
+[Wed Aug 29 01:10:47 2018] 54.145.68.131:38896 [200]: /css/styles.css
+[Wed Aug 29 01:11:15 2018] 54.145.68.131:38904 [200]: /css/parsley.css
+[Wed Aug 29 01:11:15 2018] 54.145.68.131:38906 [200]: /js/parsley.min.js
+[Wed Aug 29 01:12:45 2018] 54.145.68.131:38926 [200]: /css/styles.css
+[Wed Aug 29 01:16:19 2018] 54.145.68.131:38936 [200]: /css/styles.css
+[Wed Aug 29 01:16:32 2018] 54.145.68.131:38940 [200]: /css/styles.css
+[Wed Aug 29 01:16:41 2018] 54.145.68.131:38948 [200]: /css/styles.css
+[Wed Aug 29 01:16:51 2018] 54.145.68.131:38952 [200]: /css/parsley.css
+[Wed Aug 29 01:16:51 2018] 54.145.68.131:38954 [200]: /js/parsley.min.js
+[Wed Aug 29 01:16:51 2018] 54.145.68.131:38956 [200]: /css/styles.css
+[Wed Aug 29 01:17:27 2018] 54.145.68.131:38964 [200]: /css/styles.css
+[Wed Aug 29 01:17:27 2018] 54.145.68.131:38966 [200]: /css/parsley.css
+[Wed Aug 29 01:18:05 2018] 54.145.68.131:38978 [200]: /css/styles.css
+[Wed Aug 29 01:18:18 2018] 54.145.68.131:38992 [200]: /css/styles.css
+[Wed Aug 29 01:18:41 2018] 54.145.68.131:38996 [200]: /css/parsley.css
+[Wed Aug 29 01:18:41 2018] 54.145.68.131:38998 [200]: /css/styles.css
+[Wed Aug 29 01:18:41 2018] 54.145.68.131:39000 [200]: /js/parsley.min.js
+[Wed Aug 29 01:19:03 2018] 54.145.68.131:39012 [200]: /css/styles.css
+[Wed Aug 29 01:19:08 2018] 54.145.68.131:39022 [200]: /css/styles.css
+[Wed Aug 29 01:19:57 2018] 54.145.68.131:39030 [200]: /css/styles.css
+[Wed Aug 29 01:20:08 2018] 54.145.68.131:39036 [200]: /css/styles.css
+[Wed Aug 29 01:24:17 2018] 54.145.68.131:39084 [200]: /css/styles.css
+[Wed Aug 29 01:24:43 2018] 54.145.68.131:39090 [200]: /css/styles.css
+[Wed Aug 29 03:13:02 2018] 54.145.68.131:39458 [200]: /css/parsley.css
+[Wed Aug 29 03:13:02 2018] 54.145.68.131:39460 [200]: /js/parsley.min.js
+[Wed Aug 29 03:13:03 2018] 54.145.68.131:39462 [200]: /css/styles.css
+[Wed Aug 29 03:15:44 2018] 54.145.68.131:39486 [200]: /favicon.ico
+[Wed Aug 29 03:42:48 2018] 54.145.68.131:39644 [200]: /css/parsley.css
+[Wed Aug 29 03:42:48 2018] 54.145.68.131:39646 [200]: /js/parsley.min.js
+[Wed Aug 29 07:21:28 2018] 54.145.68.131:40362 [200]: /css/styles.css
+[Wed Aug 29 07:21:28 2018] 54.145.68.131:40364 [200]: /css/parsley.css
+[Wed Aug 29 07:21:42 2018] 54.145.68.131:40370 [200]: /js/parsley.min.js
+[Wed Aug 29 07:21:43 2018] 54.145.68.131:40372 [200]: /favicon.ico
+[Wed Aug 29 07:25:35 2018] 54.145.68.131:40396 [200]: /favicon.ico
+[Wed Aug 29 13:20:33 2018] 54.145.68.131:41454 [200]: /favicon.ico
+[Wed Aug 29 20:59:36 2018] 58.215.75.210:2962 Invalid request (Unsupported SSL request)
+[Wed Aug 29 20:59:36 2018] 58.215.75.210:3805 Invalid request (Unsupported SSL request)
+[Wed Aug 29 22:07:09 2018] 180.97.106.39:14055 Invalid request (Malformed HTTP request)
+[Wed Aug 29 22:53:34 2018] 180.97.106.39:16696 Invalid request (Malformed HTTP request)
+[Thu Aug 30 01:16:33 2018] 54.145.68.131:43562 [200]: /css/styles.css
+[Thu Aug 30 01:16:33 2018] 54.145.68.131:43564 [200]: /js/parsley.min.js
+[Thu Aug 30 01:16:33 2018] 54.145.68.131:43566 [200]: /css/parsley.css
+[Thu Aug 30 01:17:58 2018] 54.145.68.131:43588 [200]: /css/styles.css
+[Thu Aug 30 01:17:59 2018] 54.145.68.131:43590 [200]: /favicon.ico
+[Thu Aug 30 01:18:07 2018] 54.145.68.131:43598 [200]: /css/parsley.css
+[Thu Aug 30 01:18:07 2018] 54.145.68.131:43600 [200]: /js/parsley.min.js
+[Thu Aug 30 03:46:11 2018] 54.145.68.131:44064 [200]: /favicon.ico
+[Thu Aug 30 17:04:08 2018] 54.145.68.131:46346 [200]: /favicon.ico
+[Thu Aug 30 22:23:28 2018] 54.145.68.131:47266 [200]: /css/styles.css
+[Thu Aug 30 22:28:49 2018] 54.145.68.131:47312 [200]: /css/parsley.css
+[Thu Aug 30 22:28:49 2018] 54.145.68.131:47314 [200]: /js/parsley.min.js
+[Fri Aug 31 20:46:45 2018] 116.252.2.90:22499 Invalid request (Malformed HTTP request)
+[Fri Aug 31 20:46:49 2018] 182.138.214.105:27679 Invalid request (Malformed HTTP request)
+[Fri Aug 31 20:46:53 2018] 121.57.10.169:4653 Invalid request (Malformed HTTP request)
+[Fri Aug 31 21:19:04 2018] 54.145.68.131:51354 [200]: /favicon.ico
+[Sun Sep  2 03:29:07 2018] 54.145.68.131:56448 [200]: /favicon.ico
+[Sun Sep  2 19:21:47 2018] 89.248.160.199:56424 Invalid request (Unsupported SSL request)
+[Mon Sep  3 00:49:11 2018] 95.181.179.253:55562 Invalid request (Malformed HTTP request)
+[Mon Sep  3 03:35:06 2018] 54.145.68.131:60480 [200]: /favicon.ico
+[Mon Sep  3 10:35:05 2018] 54.145.68.131:33432 [200]: /favicon.ico
+[Mon Sep  3 21:24:47 2018] 106.45.1.0:42668 Invalid request (Malformed HTTP request)
+[Mon Sep  3 21:24:49 2018] 58.19.92.202:3763 Invalid request (Malformed HTTP request)
+[Tue Sep  4 10:40:53 2018] 185.53.91.26:39720 Invalid request (Unsupported SSL request)
+[Tue Sep  4 10:41:19 2018] 54.145.68.131:37462 [200]: /favicon.ico
+[Tue Sep  4 13:03:17 2018] 5.188.210.12:49527 Invalid request (Malformed HTTP request)
+[Tue Sep  4 13:08:27 2018] 5.188.210.12:12810 Invalid request (Malformed HTTP request)
+[Tue Sep  4 13:49:02 2018] 63.246.129.30:48823 Invalid request (Malformed HTTP request)
+[Wed Sep  5 22:13:22 2018] 194.28.115.247:376 Invalid request (Malformed HTTP request)
+[Wed Sep  5 22:38:48 2018] 180.97.106.164:12464 Invalid request (Malformed HTTP request)
+[Wed Sep  5 23:29:02 2018] 180.97.106.39:38576 Invalid request (Malformed HTTP request)
+[Wed Sep  5 23:44:33 2018] 54.145.68.131:43834 [200]: /favicon.ico
+[Thu Sep  6 01:10:27 2018] 194.28.112.7:54 Invalid request (Malformed HTTP request)
+[Thu Sep  6 11:46:10 2018] 47.202.109.216:40733 Invalid request (Malformed HTTP request)
+[Thu Sep  6 11:46:10 2018] 47.202.109.216:40756 Invalid request (Malformed HTTP request)
+[Thu Sep  6 11:46:11 2018] 47.202.109.216:40865 Invalid request (Malformed HTTP request)
+[Thu Sep  6 14:01:16 2018] 68.84.36.90:58587 Invalid request (Malformed HTTP request)
+[Fri Sep  7 00:41:13 2018] 54.145.68.131:48020 [200]: /favicon.ico
+[Fri Sep  7 01:41:35 2018] 95.181.179.253:44402 Invalid request (Malformed HTTP request)
+[Fri Sep  7 10:21:33 2018] 54.145.68.131:49872 [200]: /css/styles.css
+[Fri Sep  7 10:21:33 2018] 54.145.68.131:49874 [200]: /favicon.ico
+[Fri Sep  7 10:21:41 2018] 54.145.68.131:49876 [200]: /css/styles.css
+[Fri Sep  7 10:46:53 2018] 54.145.68.131:51006 [200]: /css/styles.css
+[Fri Sep  7 10:52:55 2018] 54.145.68.131:51032 [200]: /js/parsley.min.js
+[Fri Sep  7 10:52:55 2018] 54.145.68.131:51034 [200]: /css/parsley.css
+[Fri Sep  7 10:52:55 2018] 54.145.68.131:51038 [200]: /css/styles.css
+[Fri Sep  7 10:53:06 2018] 54.145.68.131:51050 [200]: /css/styles.css
+[Fri Sep  7 12:22:00 2018] 54.145.68.131:51482 [200]: /css/styles.css
+[Fri Sep  7 12:22:00 2018] 54.145.68.131:51484 [200]: /css/parsley.css
+[Fri Sep  7 12:22:00 2018] 54.145.68.131:51486 [200]: /js/parsley.min.js
+[Fri Sep  7 12:49:30 2018] 54.145.68.131:51648 [200]: /css/parsley.css
+[Fri Sep  7 12:49:30 2018] 54.145.68.131:51650 [200]: /js/parsley.min.js
+[Fri Sep  7 22:19:10 2018] 54.145.68.131:53448 [200]: /favicon.ico
+[Fri Sep  7 23:41:49 2018] 54.145.68.131:53690 [200]: /css/styles.css
+[Fri Sep  7 23:41:51 2018] 54.145.68.131:53698 [200]: /css/styles.css
+[Fri Sep  7 23:41:53 2018] 54.145.68.131:53704 [200]: /css/styles.css
+[Fri Sep  7 23:41:54 2018] 54.145.68.131:53710 [200]: /css/styles.css
+[Fri Sep  7 23:41:55 2018] 54.145.68.131:53716 [200]: /css/styles.css
+[Fri Sep  7 23:41:56 2018] 54.145.68.131:53722 [200]: /css/styles.css
+[Fri Sep  7 23:41:57 2018] 54.145.68.131:53726 [200]: /css/styles.css
+[Fri Sep  7 23:43:42 2018] 54.145.68.131:53736 [200]: /css/styles.css
+[Fri Sep  7 23:43:50 2018] 54.145.68.131:53742 [200]: /css/styles.css
+[Fri Sep  7 23:43:56 2018] 54.145.68.131:53746 [200]: /css/styles.css
+[Fri Sep  7 23:43:57 2018] 54.145.68.131:53752 [200]: /css/styles.css
+[Fri Sep  7 23:43:58 2018] 54.145.68.131:53756 [200]: /css/styles.css
+[Fri Sep  7 23:43:59 2018] 54.145.68.131:53760 [200]: /css/styles.css
+[Fri Sep  7 23:44:01 2018] 54.145.68.131:53764 [200]: /css/styles.css
+[Fri Sep  7 23:44:03 2018] 54.145.68.131:53772 [200]: /css/styles.css
+[Sat Sep  8 01:43:38 2018] 54.145.68.131:54318 [200]: /css/styles.css
+[Sat Sep  8 01:43:38 2018] 54.145.68.131:54320 [200]: /css/parsley.css
+[Sat Sep  8 01:43:38 2018] 54.145.68.131:54322 [200]: /js/parsley.min.js
+[Sat Sep  8 01:43:40 2018] 54.145.68.131:54326 [200]: /css/styles.css
+[Sat Sep  8 01:43:41 2018] 54.145.68.131:54328 [200]: /css/styles.css
+[Sat Sep  8 03:08:58 2018] 63.246.129.30:55957 Invalid request (Malformed HTTP request)
+[Sat Sep  8 22:22:51 2018] 54.145.68.131:58072 [200]: /favicon.ico
+[Sun Sep  9 10:33:40 2018] 66.240.205.34:39834 [200]: /robots.txt
+[Sun Sep  9 10:33:41 2018] 54.145.68.131:60550 [200]: /favicon.ico
+[Mon Sep 10 00:57:41 2018] 54.145.68.131:34722 [200]: /favicon.ico
+[Mon Sep 10 23:32:45 2018] 54.145.68.131:40080 [200]: /css/styles.css
+[Mon Sep 10 23:32:58 2018] 54.145.68.131:40086 [200]: /css/styles.css
+[Mon Sep 10 23:33:00 2018] 54.145.68.131:40090 [200]: /css/styles.css
+[Mon Sep 10 23:33:00 2018] 54.145.68.131:40092 [200]: /css/parsley.css
+[Mon Sep 10 23:33:01 2018] 54.145.68.131:40094 [200]: /js/parsley.min.js
+[Mon Sep 10 23:33:09 2018] 54.145.68.131:40106 [200]: /css/styles.css
+[Tue Sep 11 01:09:00 2018] 54.145.68.131:40834 [200]: /favicon.ico
+[Tue Sep 11 01:09:00 2018] 54.145.68.131:40836 [200]: /favicon.ico
+[Tue Sep 11 15:35:35 2018] 95.181.179.253:40024 Invalid request (Malformed HTTP request)
+[Tue Sep 11 19:50:32 2018] 5.188.210.12:39482 Invalid request (Malformed HTTP request)
+[Tue Sep 11 19:51:10 2018] 5.188.210.12:52241 Invalid request (Malformed HTTP request)
+[Wed Sep 12 02:27:26 2018] 54.145.68.131:45714 [200]: /favicon.ico
+[Wed Sep 12 06:26:40 2018] 95.181.179.253:53370 Invalid request (Malformed HTTP request)
+[Wed Sep 12 17:58:23 2018] 63.246.129.30:55089 Invalid request (Malformed HTTP request)
+[Wed Sep 12 22:12:32 2018] 180.97.106.39:20521 Invalid request (Malformed HTTP request)
+[Wed Sep 12 23:03:09 2018] 180.97.106.164:10164 Invalid request (Malformed HTTP request)
+[Thu Sep 13 18:25:23 2018] 54.145.68.131:53072 [200]: /favicon.ico
+[Fri Sep 14 11:55:31 2018] 185.53.91.66:33862 Invalid request (Unsupported SSL request)
+[Fri Sep 14 11:55:31 2018] 185.53.91.66:33856 Invalid request (Unsupported SSL request)
+[Fri Sep 14 13:55:04 2018] 95.181.179.253:53258 Invalid request (Malformed HTTP request)
+[Fri Sep 14 21:46:56 2018] 194.28.112.140:42444 Invalid request (Connection reset by peer)
+[Fri Sep 14 21:46:56 2018] 194.28.112.140:42641 Invalid request (Malformed HTTP request)
+[Fri Sep 14 21:46:56 2018] 194.28.112.140:43319 Invalid request (Malformed HTTP request)
+[Sat Sep 15 00:29:53 2018] 54.145.68.131:58606 [200]: /favicon.ico
+[Sat Sep 15 16:23:29 2018] 47.74.137.85:54123 [200]: /robots.txt
+[Sun Sep 16 02:29:24 2018] 54.145.68.131:34770 [200]: /favicon.ico
+[Sun Sep 16 17:45:19 2018] 66.240.205.34:51548 [200]: /robots.txt
+[Sun Sep 16 17:45:20 2018] 54.145.68.131:37304 [200]: /favicon.ico
+[Mon Sep 17 08:23:43 2018] 54.145.68.131:39750 [200]: /favicon.ico
+[Mon Sep 17 15:33:09 2018] 222.223.189.4:28938 Invalid request (Connection reset by peer)
+[Mon Sep 17 19:45:20 2018] 202.51.121.170:863 Invalid request (Connection reset by peer)
+[Mon Sep 17 23:06:31 2018] 222.223.189.4:9615 Invalid request (Connection reset by peer)
+[Tue Sep 18 07:50:21 2018] 185.53.91.66:58586 Invalid request (Unsupported SSL request)
+[Tue Sep 18 10:56:42 2018] 95.181.179.253:48151 Invalid request (Malformed HTTP request)
+[Tue Sep 18 16:03:40 2018] 58.19.1.35:11712 Invalid request (Malformed HTTP request)
+[Tue Sep 18 19:14:25 2018] 222.223.189.4:38614 Invalid request (Connection reset by peer)
+[Tue Sep 18 20:41:50 2018] 54.145.68.131:45820 [200]: /favicon.ico
+[Tue Sep 18 23:24:56 2018] 124.239.191.196:44271 Invalid request (Connection reset by peer)
+[Wed Sep 19 12:07:12 2018] 124.239.191.196:17182 Invalid request (Connection reset by peer)
+[Wed Sep 19 22:23:08 2018] 180.97.106.39:59919 Invalid request (Malformed HTTP request)
+[Wed Sep 19 23:13:32 2018] 180.97.106.164:4773 Invalid request (Malformed HTTP request)
+[Thu Sep 20 02:26:17 2018] 54.145.68.131:50964 [200]: /favicon.ico
+[Thu Sep 20 03:39:59 2018] 54.145.68.131:51340 [200]: /css/styles.css
+[Thu Sep 20 03:39:59 2018] 54.145.68.131:51342 [200]: /favicon.ico
+[Thu Sep 20 03:40:50 2018] 54.145.68.131:51350 [200]: /css/styles.css
+[Thu Sep 20 03:40:52 2018] 54.145.68.131:51354 [200]: /css/styles.css
+[Thu Sep 20 03:40:53 2018] 54.145.68.131:51360 [200]: /css/styles.css
+[Thu Sep 20 03:40:53 2018] 54.145.68.131:51366 [200]: /css/styles.css
+[Thu Sep 20 03:40:59 2018] 54.145.68.131:51372 [200]: /css/styles.css
+[Thu Sep 20 03:41:19 2018] 54.145.68.131:51384 [200]: /css/styles.css
+[Thu Sep 20 03:41:20 2018] 54.145.68.131:51386 [200]: /favicon.ico
+[Thu Sep 20 03:41:21 2018] 54.145.68.131:51390 [200]: /css/styles.css
+[Thu Sep 20 03:41:23 2018] 54.145.68.131:51394 [200]: /css/styles.css
+[Thu Sep 20 03:41:42 2018] 54.145.68.131:51398 [200]: /css/styles.css
+[Thu Sep 20 03:41:44 2018] 54.145.68.131:51402 [200]: /css/styles.css
+[Thu Sep 20 03:41:44 2018] 54.145.68.131:51404 [200]: /favicon.ico
+[Thu Sep 20 03:41:45 2018] 54.145.68.131:51408 [200]: /css/styles.css
+[Thu Sep 20 03:41:45 2018] 54.145.68.131:51410 [200]: /favicon.ico
+[Thu Sep 20 06:38:34 2018] 5.188.210.12:40429 Invalid request (Malformed HTTP request)
+[Thu Sep 20 06:40:01 2018] 5.188.210.12:32665 Invalid request (Malformed HTTP request)
+[Thu Sep 20 13:38:13 2018] 124.239.191.196:21836 Invalid request (Connection reset by peer)
+[Thu Sep 20 17:14:46 2018] 185.53.91.66:40066 Invalid request (Unsupported SSL request)
+[Thu Sep 20 17:14:46 2018] 185.53.91.66:40108 Invalid request (Unsupported SSL request)
+[Thu Sep 20 23:55:01 2018] 54.145.68.131:54780 [200]: /favicon.ico
+[Fri Sep 21 09:08:00 2018] 124.239.191.196:57873 Invalid request (Connection reset by peer)
+[Fri Sep 21 20:46:08 2018] 54.145.68.131:58262 [200]: /favicon.ico
+[Sat Sep 22 02:31:25 2018] 222.223.189.4:20963 Invalid request (Connection reset by peer)
+[Sat Sep 22 23:59:00 2018] 54.145.68.131:34658 [200]: /favicon.ico
+[Sun Sep 23 04:55:52 2018] 124.239.191.196:9706 Invalid request (Connection reset by peer)
+[Sun Sep 23 22:13:10 2018] 124.239.191.196:5925 Invalid request (Connection reset by peer)
+[Mon Sep 24 05:49:24 2018] 54.145.68.131:39698 [200]: /favicon.ico
+[Mon Sep 24 12:09:16 2018] 124.239.191.196:26558 Invalid request (Connection reset by peer)
+[Tue Sep 25 02:05:47 2018] 5.188.210.12:56808 Invalid request (Malformed HTTP request)
+[Tue Sep 25 02:07:37 2018] 5.188.210.12:56963 Invalid request (Malformed HTTP request)
+[Tue Sep 25 06:13:21 2018] 124.239.191.196:38089 Invalid request (Connection reset by peer)
+[Tue Sep 25 20:07:24 2018] 221.0.20.112:26080 Invalid request (Malformed HTTP request)
+[Tue Sep 25 20:07:28 2018] 111.162.151.127:43392 Invalid request (Malformed HTTP request)
+[Tue Sep 25 20:40:43 2018] 124.239.191.196:10534 Invalid request (Connection reset by peer)
+[Wed Sep 26 00:59:18 2018] 124.239.191.196:36224 Invalid request (Connection reset by peer)
+[Wed Sep 26 22:32:20 2018] 180.97.106.164:34716 Invalid request (Malformed HTTP request)
+[Wed Sep 26 23:23:00 2018] 180.97.106.39:13046 Invalid request (Malformed HTTP request)
+[Thu Sep 27 01:36:08 2018] 124.239.191.196:32202 Invalid request (Connection reset by peer)
+[Thu Sep 27 08:29:39 2018] 124.239.191.196:14791 Invalid request (Connection reset by peer)
+[Fri Sep 28 01:07:01 2018] 54.145.68.131:55016 [200]: /favicon.ico
+[Fri Sep 28 11:10:10 2018] 54.145.68.131:56754 [200]: /favicon.ico
+[Sat Sep 29 01:22:16 2018] 124.239.191.196:47074 Invalid request (Connection reset by peer)
+[Sat Sep 29 09:18:07 2018] 222.223.189.4:19617 Invalid request (Connection reset by peer)
+[Sat Sep 29 13:18:24 2018] 124.239.191.196:29696 Invalid request (Connection reset by peer)
+[Sat Sep 29 16:34:53 2018] 185.100.87.250:41468 Invalid request (Malformed HTTP request)
+[Sat Sep 29 16:34:54 2018] 185.100.87.250:42012 Invalid request (Malformed HTTP request)
+[Sat Sep 29 16:34:59 2018] 185.100.87.250:46164 Invalid request (Unsupported SSL request)
+[Sat Sep 29 16:34:59 2018] 185.100.87.250:46316 Invalid request (Malformed HTTP request)
+[Sat Sep 29 16:35:07 2018] 185.100.87.250:46458 Invalid request (Unexpected EOF)
+[Sat Sep 29 16:35:07 2018] 185.100.87.250:52584 Invalid request (Unsupported SSL request)
+[Sat Sep 29 16:35:07 2018] 185.100.87.250:52702 Invalid request (Malformed HTTP request)
+[Sat Sep 29 16:35:07 2018] 185.100.87.250:52874 Invalid request (Malformed HTTP request)
+[Sat Sep 29 16:35:08 2018] 185.100.87.250:53094 Invalid request (Malformed HTTP request)
+[Sat Sep 29 16:35:08 2018] 185.100.87.250:53378 Invalid request (Malformed HTTP request)
+[Sat Sep 29 16:36:52 2018] 185.100.87.250:54374 Invalid request (Malformed HTTP request)
+[Sun Sep 30 03:27:02 2018] 222.223.189.4:56535 Invalid request (Connection reset by peer)
+[Sun Sep 30 16:50:45 2018] 123.14.122.208:35752 Invalid request (Malformed HTTP request)
+[Sun Sep 30 16:50:48 2018] 113.57.114.191:3746 Invalid request (Malformed HTTP request)
+[Sun Sep 30 16:50:50 2018] 128.1.49.205:52254 Invalid request (Malformed HTTP request)
+[Sun Sep 30 21:15:38 2018] 54.145.68.131:40806 [200]: /favicon.ico
+[Mon Oct  1 12:27:21 2018] 124.88.64.202:33356 Invalid request (Malformed HTTP request)
+[Mon Oct  1 12:27:21 2018] 182.138.137.148:26650 Invalid request (Connection reset by peer)
+[Mon Oct  1 15:52:31 2018] 54.145.68.131:45474 [200]: /css/styles.css
+[Mon Oct  1 22:19:55 2018] 66.240.205.34:54392 [200]: /robots.txt
+[Mon Oct  1 22:19:55 2018] 54.145.68.131:46564 [200]: /favicon.ico
+[Tue Oct  2 11:48:35 2018] 5.188.210.50:13596 Invalid request (Malformed HTTP request)
+[Tue Oct  2 11:49:51 2018] 5.188.210.50:39716 Invalid request (Malformed HTTP request)
+[Wed Oct  3 00:25:25 2018] 54.145.68.131:51728 [200]: /favicon.ico
+[Wed Oct  3 01:12:29 2018] 124.239.191.196:3299 Invalid request (Connection reset by peer)
+[Wed Oct  3 05:49:39 2018] 124.239.191.196:10024 Invalid request (Connection reset by peer)
+[Wed Oct  3 22:21:11 2018] 180.97.106.39:35067 Invalid request (Malformed HTTP request)
+[Thu Oct  4 06:57:35 2018] 5.188.210.50:18435 Invalid request (Malformed HTTP request)
+[Thu Oct  4 06:58:17 2018] 5.188.210.50:44394 Invalid request (Malformed HTTP request)
+[Thu Oct  4 08:29:46 2018] 124.239.191.196:54429 Invalid request (Connection reset by peer)
+[Thu Oct  4 12:34:17 2018] 124.239.191.196:56137 Invalid request (Connection reset by peer)
+[Thu Oct  4 16:44:19 2018] 54.145.68.131:58526 [200]: /favicon.ico
+[Thu Oct  4 18:36:21 2018] 185.8.49.146:44344 Invalid request (Malformed HTTP request)
+[Fri Oct  5 01:42:03 2018] 54.145.68.131:60428 [200]: /css/styles.css
+[Fri Oct  5 01:42:04 2018] 54.145.68.131:60430 [200]: /favicon.ico
+[Fri Oct  5 01:42:08 2018] 54.145.68.131:60436 [200]: /css/styles.css
+[Fri Oct  5 01:42:11 2018] 54.145.68.131:60440 [200]: /css/parsley.css
+[Fri Oct  5 01:42:11 2018] 54.145.68.131:60442 [200]: /css/styles.css
+[Fri Oct  5 01:42:11 2018] 54.145.68.131:60444 [200]: /js/parsley.min.js
+[Fri Oct  5 01:42:16 2018] 54.145.68.131:60450 [200]: /css/styles.css
+[Fri Oct  5 01:42:18 2018] 54.145.68.131:60456 [200]: /css/styles.css
+[Fri Oct  5 01:42:20 2018] 54.145.68.131:60462 [200]: /css/styles.css
+[Fri Oct  5 01:42:22 2018] 54.145.68.131:60468 [200]: /css/styles.css
+[Fri Oct  5 01:42:37 2018] 54.145.68.131:60472 [200]: /css/styles.css
+[Fri Oct  5 06:35:26 2018] 54.145.68.131:33178 [200]: /css/styles.css
+[Fri Oct  5 06:35:27 2018] 54.145.68.131:33180 [200]: /favicon.ico
+[Fri Oct  5 10:05:29 2018] 54.145.68.131:33802 [200]: /favicon.ico
+[Fri Oct  5 10:46:07 2018] 72.14.190.168:34614 Invalid request (Malformed HTTP request)
+[Fri Oct  5 10:46:07 2018] 72.14.190.168:34676 Invalid request (Unsupported SSL request)
+[Fri Oct  5 10:46:07 2018] 72.14.190.168:34688 Invalid request (Malformed HTTP request)
+[Fri Oct  5 10:46:11 2018] 72.14.190.168:34878 Invalid request (Unexpected EOF)
+[Fri Oct  5 10:46:11 2018] 72.14.190.168:35280 Invalid request (Unsupported SSL request)
+[Fri Oct  5 10:46:11 2018] 72.14.190.168:35324 Invalid request (Malformed HTTP request)
+[Fri Oct  5 10:46:16 2018] 72.14.190.168:36266 Invalid request (Malformed HTTP request)
+[Fri Oct  5 10:46:16 2018] 72.14.190.168:36296 Invalid request (Malformed HTTP request)
+[Fri Oct  5 10:46:16 2018] 72.14.190.168:36330 Invalid request (Malformed HTTP request)
+[Fri Oct  5 10:46:16 2018] 72.14.190.168:36352 Invalid request (Malformed HTTP request)
+[Fri Oct  5 12:18:07 2018] 45.56.104.86:46020 Invalid request (Malformed HTTP request)
+[Fri Oct  5 12:18:07 2018] 45.56.104.86:46038 Invalid request (Unsupported SSL request)
+[Fri Oct  5 12:18:07 2018] 45.56.104.86:46058 Invalid request (Malformed HTTP request)
+[Fri Oct  5 12:18:09 2018] 45.56.104.86:46070 Invalid request (Unexpected EOF)
+[Fri Oct  5 12:18:09 2018] 45.56.104.86:46532 Invalid request (Unsupported SSL request)
+[Fri Oct  5 12:18:09 2018] 45.56.104.86:46534 Invalid request (Malformed HTTP request)
+[Fri Oct  5 12:18:10 2018] 45.56.104.86:46820 Invalid request (Malformed HTTP request)
+[Fri Oct  5 12:18:10 2018] 45.56.104.86:46830 Invalid request (Malformed HTTP request)
+[Fri Oct  5 12:18:10 2018] 45.56.104.86:46846 Invalid request (Malformed HTTP request)
+[Fri Oct  5 12:18:10 2018] 45.56.104.86:46854 Invalid request (Malformed HTTP request)
+[Fri Oct  5 21:53:24 2018] 54.145.68.131:35772 [200]: /favicon.ico
+[Sat Oct  6 03:03:03 2018] 223.116.33.41:18279 Invalid request (Unsupported SSL request)
+[Sat Oct  6 03:03:04 2018] 223.116.33.41:18303 Invalid request (Unsupported SSL request)
+[Sat Oct  6 04:06:06 2018] 223.116.33.41:20736 Invalid request (Unsupported SSL request)
+[Sat Oct  6 04:06:07 2018] 223.116.33.41:20745 Invalid request (Unsupported SSL request)
+[Sat Oct  6 11:55:43 2018] 61.216.152.135:63838 Invalid request (Malformed HTTP request)
+[Sat Oct  6 15:25:29 2018] 124.239.191.196:15199 Invalid request (Connection reset by peer)
+[Sun Oct  7 07:07:01 2018] 54.145.68.131:41692 [200]: /favicon.ico
+[Sun Oct  7 20:26:08 2018] 124.239.191.196:9560 Invalid request (Connection reset by peer)
+[Mon Oct  8 01:04:43 2018] 124.239.191.196:16160 Invalid request (Connection reset by peer)
+[Mon Oct  8 09:34:09 2018] 124.239.191.196:14705 Invalid request (Connection reset by peer)
+[Mon Oct  8 13:24:25 2018] 222.223.189.4:1354 Invalid request (Connection reset by peer)
+[Mon Oct  8 15:08:10 2018] 124.239.191.196:51379 Invalid request (Connection reset by peer)
+[Mon Oct  8 19:32:50 2018] 222.223.189.4:43925 Invalid request (Connection reset by peer)
+[Mon Oct  8 22:13:54 2018] 54.145.68.131:48334 [200]: /favicon.ico
+[Tue Oct  9 01:30:49 2018] 124.239.191.196:23756 Invalid request (Connection reset by peer)
+[Tue Oct  9 07:35:51 2018] 121.225.246.103:30043 Invalid request (Unsupported SSL request)
+[Tue Oct  9 11:22:21 2018] 101.249.211.209:17054 Invalid request (Unsupported SSL request)
+[Tue Oct  9 11:41:12 2018] 182.119.228.20:24280 Invalid request (Unsupported SSL request)
+[Tue Oct  9 11:41:54 2018] 182.119.228.20:11965 Invalid request (Unsupported SSL request)
+[Tue Oct  9 11:42:51 2018] 150.255.86.79:41041 Invalid request (Unsupported SSL request)
+[Tue Oct  9 11:44:12 2018] 223.166.74.229:20968 Invalid request (Unsupported SSL request)
+[Tue Oct  9 11:45:26 2018] 223.166.74.214:31203 Invalid request (Unsupported SSL request)
+[Tue Oct  9 11:48:11 2018] 124.239.191.196:3902 Invalid request (Connection reset by peer)
+[Tue Oct  9 12:47:32 2018] 223.166.74.214:29321 Invalid request (Unsupported SSL request)
+[Tue Oct  9 13:02:50 2018] 121.225.246.103:30758 Invalid request (Unsupported SSL request)
+[Tue Oct  9 15:16:22 2018] 223.166.74.214:23594 Invalid request (Unsupported SSL request)
+[Tue Oct  9 17:31:29 2018] 124.239.191.196:47869 Invalid request (Connection reset by peer)
+[Tue Oct  9 17:44:02 2018] 223.166.74.229:21916 Invalid request (Unsupported SSL request)
+[Tue Oct  9 18:16:45 2018] 101.249.211.209:30131 Invalid request (Unsupported SSL request)
+[Tue Oct  9 19:59:40 2018] 223.166.74.214:43237 Invalid request (Unsupported SSL request)
+[Tue Oct  9 20:44:37 2018] 150.255.6.1:17020 Invalid request (Unsupported SSL request)
+[Tue Oct  9 21:34:25 2018] 101.24.126.165:58856 Invalid request (Unsupported SSL request)
+[Wed Oct 10 02:24:11 2018] 54.145.68.131:54072 [200]: /favicon.ico
+[Wed Oct 10 06:39:01 2018] 124.239.191.196:52662 Invalid request (Connection reset by peer)
+[Wed Oct 10 18:06:52 2018] 222.223.189.4:60012 Invalid request (Connection reset by peer)
+[Wed Oct 10 21:05:24 2018] 180.97.106.39:52070 Invalid request (Malformed HTTP request)
+[Thu Oct 11 08:41:14 2018] 101.24.126.165:19424 Invalid request (Unsupported SSL request)
+[Thu Oct 11 08:41:15 2018] 101.249.211.209:15720 Invalid request (Unsupported SSL request)
+[Thu Oct 11 08:41:15 2018] 101.24.126.165:52423 Invalid request (Unsupported SSL request)
+[Thu Oct 11 08:41:16 2018] 101.249.211.209:16416 Invalid request (Unsupported SSL request)
+[Thu Oct 11 08:48:32 2018] 182.119.228.20:8134 Invalid request (Unsupported SSL request)
+[Thu Oct 11 09:15:01 2018] 101.24.126.165:20818 Invalid request (Unsupported SSL request)
+[Thu Oct 11 09:15:01 2018] 101.24.126.165:60512 Invalid request (Unsupported SSL request)
+[Thu Oct 11 09:37:20 2018] 121.225.246.103:14463 Invalid request (Unsupported SSL request)
+[Thu Oct 11 10:45:58 2018] 150.255.86.79:1305 Invalid request (Unsupported SSL request)
+[Thu Oct 11 11:50:23 2018] 61.216.152.135:61339 Invalid request (Malformed HTTP request)
+[Thu Oct 11 21:20:43 2018] 104.237.132.207:13155 Invalid request (Malformed HTTP request)
+[Thu Oct 11 21:20:44 2018] 104.237.132.207:13185 Invalid request (Malformed HTTP request)
+[Thu Oct 11 21:20:49 2018] 104.237.132.207:14180 Invalid request (Unsupported SSL request)
+[Thu Oct 11 21:20:49 2018] 104.237.132.207:14185 Invalid request (Malformed HTTP request)
+[Thu Oct 11 21:20:56 2018] 104.237.132.207:14205 Invalid request (Unexpected EOF)
+[Thu Oct 11 21:20:56 2018] 104.237.132.207:15838 Invalid request (Unsupported SSL request)
+[Thu Oct 11 21:20:57 2018] 104.237.132.207:15871 Invalid request (Malformed HTTP request)
+[Thu Oct 11 21:20:57 2018] 104.237.132.207:15893 Invalid request (Malformed HTTP request)
+[Thu Oct 11 21:20:57 2018] 104.237.132.207:15905 Invalid request (Malformed HTTP request)
+[Thu Oct 11 21:20:57 2018] 104.237.132.207:15915 Invalid request (Malformed HTTP request)
+[Thu Oct 11 21:21:05 2018] 104.237.132.207:17778 Invalid request (Malformed HTTP request)
+[Thu Oct 11 21:21:14 2018] 104.237.132.207:20391 Invalid request (Unsupported SSL request)
+[Thu Oct 11 21:21:14 2018] 104.237.132.207:20414 Invalid request (Unsupported SSL request)
+[Fri Oct 12 02:51:39 2018] 54.145.68.131:34306 [200]: /css/styles.css
+[Fri Oct 12 02:51:45 2018] 54.145.68.131:34312 [200]: /css/styles.css
+[Fri Oct 12 02:51:48 2018] 54.145.68.131:34316 [200]: /css/styles.css
+[Fri Oct 12 02:51:48 2018] 54.145.68.131:34322 [200]: /css/styles.css
+[Fri Oct 12 03:28:17 2018] 54.145.68.131:34442 [200]: /css/styles.css
+[Fri Oct 12 03:28:18 2018] 54.145.68.131:34444 [200]: /favicon.ico
+[Fri Oct 12 03:37:49 2018] 124.239.191.196:30479 Invalid request (Connection reset by peer)
+[Fri Oct 12 03:38:28 2018] 54.145.68.131:34464 [200]: /css/styles.css
+[Fri Oct 12 03:41:25 2018] 54.145.68.131:34478 [200]: /css/styles.css
+[Fri Oct 12 03:41:25 2018] 54.145.68.131:34480 [200]: /favicon.ico
